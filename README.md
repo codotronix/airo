@@ -1,2 +1,2 @@
 # airo
-AIRO - Adjust Image Resources Online
+AIRO - Adjust Image Resources Offline
